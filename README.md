@@ -19,3 +19,6 @@ Apender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a Demo. 
 Aqui puedes visualizar mi proyecto terminado : [Clonacion de Google](https://clonaciongooglebydea.netlify.app/)
+
+
+si tienes una sugerencia házmela saber, todos los comentarios son bienvenidos!. Siéntete libre de utilizar este script si te es útil.
